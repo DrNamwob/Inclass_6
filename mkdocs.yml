@@ -1,0 +1,18 @@
+site_name: My Documentation for 602 Lecture 4
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - Welcome to DrNamwob's Super Cool Place: index.md
+  - Test Functions: test_functions.md
+  - Test Rectangle Functions: test_rectangles.md
+  - Example Functions: example_functions.md
+  - Rectangle Calculations: rectangles.md
+  - Tutorial: tutorial.md
+  - How-To: how-to.md
+  - Reference: reference.md
+  - Explanation: explanation.md
